@@ -1,1 +1,1 @@
-# AuthenticationJWT
+# ExpressAuthJWT
